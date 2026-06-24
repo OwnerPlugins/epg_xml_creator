@@ -24,19 +24,15 @@ jobs:
       # 3. Esegui lo script (supponendo che sia in scripts/epg_create.py)
       - name: Esegui epg_create.py
         run: |
-          cd scripts
-          python epg_create.py
+          python epg_create.py   # se è nella root
         # Lo script genererà epg.xml (e altri file) nella stessa cartella scripts/
 
       # 4. Sposta i file XML generati nella root del progetto (opzionale)
       #    Se vuoi che rimangano in una cartella specifica, adatta i percorsi.
-      - name: Copia XML generati nella root
+      - name: Copia XML generati (se in root)
         run: |
-          if [ -f scripts/epg.xml ]; then
-            cp scripts/epg.xml epg.xml
-          fi
-          if [ -f scripts/epg_ITA.xml ]; then
-            cp scripts/epg_ITA.xml epg_ITA.xml
+          if [ -f epg.xml ]; then
+            cp epg.xml epg.xml  # già in root, non serve copiare
           fi
 
       # 5. Commit e push delle modifiche (se ci sono cambiamenti)
