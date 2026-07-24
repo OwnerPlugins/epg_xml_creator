@@ -2,7 +2,7 @@ name: Aggiorna EPG
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 */12 * * *'   # Ogni 12 ore (alle 00:00 e alle 12:00 UTC)
   workflow_dispatch:
 
 jobs:
