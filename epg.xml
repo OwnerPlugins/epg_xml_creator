@@ -5464,14 +5464,12 @@
     <title lang="it">Craig</title>
     <desc lang="it">La serie segue un giovane ragazzo nella città suburbana di Herkleston, nel Maryland, di nome Craig Williams, i suoi due amici Kelsey e John Paul "J.P.", e le loro numerose avventure nel torrente titolare, descritto come un'utopia immersa nella natura selvaggia, in cui tribù di bambini regnano tra fortificazioni sugli alberi e rampe per dirt bike.</desc>
     <category lang="it">Avventura</category>
-    <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312132101001401/images/Mediaset_Italia_Production_-_Main/122/532/ST000000001560-1-header-poster-320x260.jpg"></icon>
     <episode-num system="onscreen">S4 E15</episode-num>
   </programme>
 <programme start="20261014113500 +0000" stop="20261014114500 +0000" channel="Boing.it">
     <title lang="it">Craig</title>
     <desc lang="it">La serie segue un giovane ragazzo nella città suburbana di Herkleston, nel Maryland, di nome Craig Williams, i suoi due amici Kelsey e John Paul "J.P.", e le loro numerose avventure nel torrente titolare, descritto come un'utopia immersa nella natura selvaggia, in cui tribù di bambini regnano tra fortificazioni sugli alberi e rampe per dirt bike.</desc>
     <category lang="it">Avventura</category>
-    <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312132101001501/images/Mediaset_Italia_Production_-_Main/122/532/ST000000001560-1-header-poster-320x260.jpg"></icon>
     <episode-num system="onscreen">S4 E13</episode-num>
   </programme>
 <programme start="20261014114500 +0000" stop="20261014115500 +0000" channel="Boing.it">
@@ -6572,9 +6570,16 @@
 <programme start="20261011070500 +0200" stop="20261011080000 +0200" channel="Rai1.it">
     <title lang="it">Unomattina in famiglia</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
-    <date>2019</date>
+    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana. Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
+    <credits>
+      <director>Alessandra De Sanctis</director>
+      <presenter>Monica Setta</presenter>
+      <presenter>Ingrid Muccitelli</presenter>
+    </credits>
+    <date>2027</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/11/1694449777082_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011080000 +0200" stop="20261011081800 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
@@ -6585,9 +6590,16 @@
 <programme start="20261011081800 +0200" stop="20261011090000 +0200" channel="Rai1.it">
     <title lang="it">Unomattina in famiglia</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
-    <date>2019</date>
+    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana. Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
+    <credits>
+      <director>Alessandra De Sanctis</director>
+      <presenter>Monica Setta</presenter>
+      <presenter>Ingrid Muccitelli</presenter>
+    </credits>
+    <date>2027</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/11/1694449777082_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011090000 +0200" stop="20261011090400 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
@@ -6598,94 +6610,153 @@
 <programme start="20261011090400 +0200" stop="20261011092500 +0200" channel="Rai1.it">
     <title lang="it">Unomattina in famiglia</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
-    <date>2019</date>
+    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana. Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
+    <credits>
+      <director>Alessandra De Sanctis</director>
+      <presenter>Monica Setta</presenter>
+      <presenter>Ingrid Muccitelli</presenter>
+    </credits>
+    <date>2027</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/11/1694449777082_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011092500 +0200" stop="20261011093000 +0200" channel="Rai1.it">
     <title lang="it">TG1 LIS</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011093000 +0200" stop="20261011101500 +0200" channel="Rai1.it">
     <title lang="it">Check Up</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Luana Ravegnini approfondisce i principali temi legati alla salute e alla prevenzione. Dall'infarto e l'importanza di riconoscerne i sintomi ai disturbi dell'anca e al glaucoma. Spazio anche all'alimentazione, alle patologie gastrointestinali, ai cambiamenti legati all'invecchiamento e alle diverse forme di dolore, con il contributo di medici e specialisti.</desc>
-    <date>2019</date>
+    <desc lang="it">Luana Ravegnini approfondisce i principali temi legati alla salute e alla prevenzione. Dall'infarto e l'importanza di riconoscerne i sintomi ai disturbi dell'anca e al glaucoma. Spazio anche all'alimentazione, alle patologie gastrointestinali, ai cambiamenti legati all'invecchiamento e alle diverse forme di dolore, con il contributo di medici e specialisti. Luana Ravegnini approfondisce i principali temi legati alla salute e alla prevenzione. Dall'infarto e l'importanza di riconoscerne i sintomi ai disturbi dell'anca e al glaucoma. Spazio anche all'alimentazione, alle patologie gastrointestinali, ai cambiamenti legati all'invecchiamento e alle diverse forme di dolore, con il contributo di medici e specialisti.</desc>
+    <credits>
+      <presenter>Luana Ravegnini</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791558701409_21707.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011101500 +0200" stop="20261011105500 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187507306_1788614209165_1774802239757_A%20sua%20immagine.jpg"></icon>
+    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV. Lorena Bianchetti ricorda San Giovanni XXIII, il \"Papa buono\.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735108146_1791735104526.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011105500 +0200" stop="20261011115000 +0200" channel="Rai1.it">
     <title lang="it">Santa Messa</title>
     <sub-title lang="it">Santa Messa dalla Cattedrale di Sulmona (L'Aquila) - 11/10/2026</sub-title>
-    <desc lang="it">Santa Messa dalla Cattedrale di Sulmona (L'Aquila). Regia di Simone Chiappetta. Commento liturgico di Orazio Coclite.</desc>
-    <date>2019</date>
+    <desc lang="it">Santa Messa dalla Cattedrale di Sulmona (L'Aquila). Regia di Simone Chiappetta. Commento liturgico di Orazio Coclite. Santa Messa dalla Cattedrale di Sulmona (L'Aquila). Regia di Simone Chiappetta. Commento liturgico di Orazio Coclite.</desc>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2019/11/19/1574153990363_Santa%20Messa%202048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
 <programme start="20261011115000 +0200" stop="20261011120000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187507306_1788614209165_1774802239757_A%20sua%20immagine.jpg"></icon>
+    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV. Lorena Bianchetti ricorda San Giovanni XXIII, il \"Papa buono\.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735108146_1791735104526.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011120000 +0200" stop="20261011121000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Recita dell'Angelus da Piazza San Pietro del 11/10/2026</sub-title>
-    <desc lang="it">L'Angelus recitato da Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro.</desc>
-    <date>2019</date>
+    <desc lang="it">L'Angelus recitato da Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro. L'Angelus recitato da Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
     <icon src="https://www.raiplay.it/dl/img/2025/08/21/1755783584044_Angelus-San-Pietro-2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
 <programme start="20261011121000 +0200" stop="20261011122000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187507306_1788614209165_1774802239757_A%20sua%20immagine.jpg"></icon>
+    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV. Lorena Bianchetti ricorda San Giovanni XXIII, il \"Papa buono\.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735108146_1791735104526.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011122000 +0200" stop="20261011133000 +0200" channel="Rai1.it">
     <title lang="it">Linea Verde</title>
     <sub-title lang="it">The Ciociaria - 11/10/2026</sub-title>
-    <desc lang="it">Peppone Calabrese, Fabio Gallo e Margherita Granbassi, attraversano la Ciociaria, precisamente la Valle di Comino. Dal Lago di Posta Fibreno a Picinisco, il tema del viaggio punta a far emergere la doppia anima di questo tratto di Ciociaria: da un lato la dimensione agricola pastorale; Dall'altro lato invece, un respiro internazionale, poco conosciuto, innescato da una serie di fattori determinanti, anzitutto quelli legati alle grandi emigrazioni della seconda metà dell'Ottocento. Peppone, nell'incontro con pastori, casari, agricoltori, artigiani fa emergere l'anima più strettamente contadina della valle che ha saputo far parlare di sé grazie al Pecorino, al Fagiolo Cannellino di Atina e ad una piccola gelateria di Picinisco che fa un solo gusto di gelato, quello alla crema inglese. Storie di terra, di uomini e di donne che ci aiutano a scoprire i segreti di un luogo poco conosciuto che ha attratto i viaggiatori del Grand Tour nell'800 e grandi scrittori come D. H. Lawrence che ha ambientato proprio a Picinisco uno dei suoi romanzi più conosciuti "La ragazza perduta". Fabio invece approfondisce le storie più internazionali: c'è chi dopo una vita in Scozia è rientrato per recuperare le vigne dei nonni, chi ha puntato sulla ristorazione ma soprattutto racconta le storie dei ragazzi e delle ragazze ciociare che, alla fine dell'800 lasciavano i pascoli e le campagne per andare a posare per i più grandi pittori e scultori d'Europa come modelli. Margherita invece indaga gli aspetti più legati alla musica ciociara itinerante, che ha girato il mondo con le sue sonorità pastorali di ciaramelle e zampogne. Infine, un grande pranzo della domenica a Villa Lawrence, la dimora rurale che porta il nome dello scrittore inglese.</desc>
-    <date>2019</date>
+    <desc lang="it">Peppone Calabrese, Fabio Gallo e Margherita Granbassi, attraversano la Ciociaria, precisamente la Valle di Comino. Dal Lago di Posta Fibreno a Picinisco, il tema del viaggio punta a far emergere la doppia anima di questo tratto di Ciociaria: da un lato la dimensione agricola pastorale; Dall'altro lato invece, un respiro internazionale, poco conosciuto, innescato da una serie di fattori determinanti, anzitutto quelli legati alle grandi emigrazioni della seconda metà dell'Ottocento. Peppone, nell'incontro con pastori, casari, agricoltori, artigiani fa emergere l'anima più strettamente contadina della valle che ha saputo far parlare di sé grazie al Pecorino, al Fagiolo Cannellino di Atina e ad una piccola gelateria di Picinisco che fa un solo gusto di gelato, quello alla crema inglese. Storie di terra, di uomini e di donne che ci aiutano a scoprire i segreti di un luogo poco conosciuto che ha attratto i viaggiatori del Grand Tour nell'800 e grandi scrittori come D. H. Lawrence che ha ambientato proprio a Picinisco uno dei suoi romanzi più conosciuti "La ragazza perduta". Fabio invece approfondisce le storie più internazionali: c'è chi dopo una vita in Scozia è rientrato per recuperare le vigne dei nonni, chi ha puntato sulla ristorazione ma soprattutto racconta le storie dei ragazzi e delle ragazze ciociare che, alla fine dell'800 lasciavano i pascoli e le campagne per andare a posare per i più grandi pittori e scultori d'Europa come modelli. Margherita invece indaga gli aspetti più legati alla musica ciociara itinerante, che ha girato il mondo con le sue sonorità pastorali di ciaramelle e zampogne. Infine, un grande pranzo della domenica a Villa Lawrence, la dimora rurale che porta il nome dello scrittore inglese. Peppone Calabrese, Fabio Gallo e Margherita Granbassi, attraversano la Ciociaria, precisamente la Valle di Comino. Dal Lago di Posta Fibreno a Picinisco, il tema del viaggio punta a far emergere la doppia anima di questo tratto di Ciociaria: da un lato la dimensione agricola pastorale; Dall'altro lato invece, un respiro internazionale, poco conosciuto, innescato da una serie di fattori determinanti, anzitutto quelli legati alle grandi emigrazioni della seconda metà dell'Ottocento. Peppone, nell'incontro con pastori, casari, agricoltori, artigiani fa emergere l'anima più strettamente contadina della valle che ha saputo far parlare di sé grazie al Pecorino, al Fagiolo Cannellino di Atina e ad una piccola gelateria di Picinisco che fa un solo gusto di gelato, quello alla crema inglese. Storie di terra, di uomini e di donne che ci aiutano a scoprire i segreti di un luogo poco conosciuto che ha attratto i viaggiatori del Grand Tour nell'800 e grandi scrittori come D. H. Lawrence che ha ambientato proprio a Picinisco uno dei suoi romanzi più conosciuti \"La ragazza perduta\". Fabio invece approfondisce le storie più internazionali: c'è chi dopo una vita in Scozia è rientrato per recuperare le vigne dei nonni, chi ha puntato sulla ristorazione ma soprattutto racconta le storie dei ragazzi e delle ragazze ciociare che, alla fine dell'800 lasciavano i pascoli e le campagne per andare a posare per i più grandi pittori e scultori d'Europa come modelli. Margherita invece indaga gli aspetti più legati alla musica ciociara itinerante, che ha girato il mondo con le sue sonorità pastorali di ciaramelle e zampogne. Infine, un grande pranzo della domenica a Villa Lawrence, la dimora rurale che porta il nome dello scrittore inglese.</desc>
+    <credits>
+      <director>Daniele Carminati</director>
+      <presenter>Peppone</presenter>
+      <presenter>Margherita Granbassi</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Viaggi &amp; Avventure</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/10/1791585459195_1088.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011133000 +0200" stop="20261011140000 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011140000 +0200" stop="20261011171500 +0200" channel="Rai1.it">
     <title lang="it">Domenica In</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Mara Venier, la "signora della domenica", accoglie i protagonisti dell'attualità, i grandi nomi e i nuovi talenti dello spettacolo, per una domenica pomeriggio piena di allegria, ospiti, interviste, musica e storie di vita.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/09/25/1790324675855_2048x1152.jpg"></icon>
+    <desc lang="it">Musica, cinema, spettacolo e attualità sono al centro della puntata di oggi di Domenica In con Mara Venier, affiancata da Tommaso Cerno ed Enzo Miccio. Ospite atteso Al Bano, che si racconta tra carriera e vita privata e si esibisce con alcuni dei suoi brani più amati. Spazio poi a Ballando con le Stelle, con diversi ospiti pronti a commentare la seconda puntata del programma, e al cinema con Rocco Papaleo e Giorgio Pasotti, che presentano "Sotto a chi tocca", e Massimiliano Caiazzo, protagonista di "Je so' pazzo", il film dedicato a Pino Daniele. Per l'attualità, in studio ci sono Leonardo Bove e Kean Talingdan, due dei ragazzi sopravvissuti alla tragedia di Crans-Montana, accompagnati dalle rispettive mamme. Non manca Il pranzo della domenica, con Savino Zaba in collegamento da Cellino San Marco, mentre la musica è affidata alla nuova band guidata da Timothy Cavicchini. Musica, cinema, spettacolo e attualità sono al centro della puntata di oggi di Domenica In con Mara Venier, affiancata da Tommaso Cerno ed Enzo Miccio. Ospite atteso Al Bano, che si racconta tra carriera e vita privata e si esibisce con alcuni dei suoi brani più amati. Spazio poi a Ballando con le Stelle, con diversi ospiti pronti a commentare la seconda puntata del programma, e al cinema con Rocco Papaleo e Giorgio Pasotti, che presentano \"Sotto a chi tocca\.</desc>
+    <credits>
+      <director>Mauro Stancati</director>
+      <presenter>Mara Venier</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791726500986_1791726345938%201.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011171500 +0200" stop="20261011171800 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011171800 +0200" stop="20261011172000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
-    <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png"></icon>
   </programme>
 <programme start="20261011172000 +0200" stop="20261011184000 +0200" channel="Rai1.it">
     <title lang="it">Da noi... a ruota libera</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256093558_2048x1152.jpg"></icon>
+    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza. Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un \"giro di ruota\" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
+    <credits>
+      <director>Elisabetta Pierelli</director>
+      <presenter>Francesca Fialdini</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735156155_1791735152262.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011184000 +0200" stop="20261011200000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena</title>
@@ -6723,7 +6794,7 @@
 <programme start="20261011235000 +0200" stop="20261012010500 +0200" channel="Rai1.it">
     <title lang="it">Speciale Tg1</title>
     <sub-title lang="it">Cambio rotta: Undertourism - 11/10/2026</sub-title>
-    <desc lang="it">Settimanale del Tg1.</desc>
+    <desc lang="it">Il reportage di Valentina Bisti nell'Italia alle prese con il turismo di massa, tra località sempre più affollate e territori alla ricerca di un nuovo equilibrio tra accoglienza, tutela del paesaggio e qualità della vita dei residenti. Un reportage che racconta le misure adottate dalle amministrazioni locali per contenere i flussi turistici e valorizzare destinazioni meno conosciute. Dalle Dolomiti, tra il lago di Sorapis, le Tre Cime di Lavaredo e il monte Civetta, alle spiagge della Puglia e della Sicilia, il racconto attraversa alcuni dei luoghi più visitati del Paese, dove prenotazioni obbligatorie e accessi contingentati cercano di contrastare gli effetti del sovraffollamento. Spazio anche alle alternative al turismo tradizionale, dai borghi delle Dolomiti lucane ai percorsi naturalistici della Majella. Il viaggio prosegue tra la Baia del Silenzio a Sestri Levante, la spiaggia della Pelosa in Sardegna, le Cinque Terre e i paesaggi della Val d'Orcia. Attraverso le testimonianze di amministratori, esperti e operatori del settore, emerge una diversa idea di turismo, più attenta ai territori e alle comunità che li abitano.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/10/1791586110982_Thumb-EP.jpg"></icon>
   </programme>
@@ -6737,9 +6808,15 @@
 <programme start="20261012023500 +0200" stop="20261012035000 +0200" channel="Rai1.it">
     <title lang="it">Da noi... a ruota libera</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
-    <date>2019</date>
+    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza. Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un \"giro di ruota\" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
+    <credits>
+      <director>Elisabetta Pierelli</director>
+      <presenter>Francesca Fialdini</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187458114_1790256093558_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261012035000 +0200" stop="20261012043500 +0200" channel="Rai1.it">
     <title lang="it">Doc Martin</title>
@@ -7354,7 +7431,7 @@
     <desc lang="it">Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche. Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche.</desc>
     <date>2026</date>
     <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/10/21/1761056243708_tg2%20storie%202025.png"></icon>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735465027_1791735452649.png"></icon>
     <country lang="it">Italia</country>
   </programme>
 <programme start="20261011004700 +0200" stop="20261011005500 +0200" channel="Rai2.it">
@@ -7442,7 +7519,7 @@
     <desc lang="it">Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche. Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche.</desc>
     <date>2026</date>
     <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/10/21/1761056243708_tg2%20storie%202025.png"></icon>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735465027_1791735452649.png"></icon>
     <country lang="it">Italia</country>
   </programme>
 <programme start="20261011073500 +0200" stop="20261011074500 +0200" channel="Rai2.it">
@@ -7483,69 +7560,116 @@
 <programme start="20261011082500 +0200" stop="20261011094000 +0200" channel="Rai2.it">
     <title lang="it">Radio2 Social Club</title>
     <sub-title lang="it">Il meglio di Radio2 Social Club - 11/10/2026</sub-title>
-    <desc lang="it">Una selezione dei momenti più significativi della settimana di Radio2 Social Club.</desc>
-    <date>2019</date>
+    <desc lang="it">Una selezione dei momenti più significativi della settimana di Radio2 Social Club. Una selezione dei momenti più significativi della settimana di Radio2 Social Club.</desc>
+    <credits>
+      <director>Mauro Sebastianelli</director>
+      <director>Giuseppe Caporale</director>
+      <presenter>Luca Barbarossa</presenter>
+      <presenter>Ema Stokholma</presenter>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Musica</category>
     <icon src="https://www.raiplay.it/dl/img/2024/09/25/1727249175034_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011094000 +0200" stop="20261011111000 +0200" channel="Rai2.it">
     <title lang="it">Un amore in fondo al mare</title>
-    <desc lang="it">Durante l'organizzazione del matrimonio di sua sorella Kate in un lussuosissimo resort alle Hawaii, Addie perde l'anello che sua nonna Helen le aveva regalato, simbolo dell'amore incondizionato dei nonni. Decide di assumere il marinaio e maestro di sub, Jack, per ritrovarlo. Tra i due inizialmente non c'è grande intesa, ma poco alla volta, cominciano a conoscersi meglio e capiscono di avere molto altro in comune.</desc>
-    <date>2019</date>
+    <desc lang="it">Durante l'organizzazione del matrimonio di sua sorella Kate in un lussuosissimo resort alle Hawaii, Addie perde l'anello che sua nonna Helen le aveva regalato, simbolo dell'amore incondizionato dei nonni. Decide di assumere il marinaio e maestro di sub, Jack, per ritrovarlo. Tra i due inizialmente non c'è grande intesa, ma poco alla volta, cominciano a conoscersi meglio e capiscono di avere molto altro in comune. Durante l'organizzazione del matrimonio di sua sorella Kate in un lussuosissimo resort alle Hawaii, Addie perde l'anello che sua nonna Helen le aveva regalato, simbolo dell'amore incondizionato dei nonni. Decide di assumere il marinaio e maestro di sub, Jack, per ritrovarlo. Tra i due inizialmente non c'è grande intesa, ma poco alla volta, cominciano a conoscersi meglio e capiscono di avere molto altro in comune.</desc>
+    <credits>
+      <director>Maclain Nelson</director>
+      <actor>Hunter King</actor>
+      <actor>Beau Mirchoff</actor>
+      <actor>Eliza Hayes Maher</actor>
+      <actor>Jordan Matlock</actor>
+      <actor>Diane Sargent</actor>
+      <actor>Brian Connors</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Sentimentale</category>
     <icon src="https://www.raiplay.it/dl/img/2023/06/09/1686318735994_2048x1152.jpg"></icon>
+    <country lang="it">USA</country>
   </programme>
 <programme start="20261011111000 +0200" stop="20261011112000 +0200" channel="Rai2.it">
     <title lang="it">Tg Sport</title>
-    <desc lang="it">A cura di Rai Sport.</desc>
-    <date>2019</date>
+    <desc lang="it">A cura di Rai Sport. A cura di Rai Sport.</desc>
+    <credits>
+      <presenter>Vari</presenter>
+    </credits>
+    <category lang="it">Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011112000 +0200" stop="20261011130000 +0200" channel="Rai2.it">
     <title lang="it">Un'estate a Oxford</title>
-    <desc lang="it">Nina accetta l'invito, da parte dell'università di Oxford, a tenere un seminario estivo. Appena arrivata, incontra il suo vecchio professore, Thomas Rothwell, con il quale, anni prima, aveva intrecciato una relazione mentre lavoravano alla stesura del libro "lettere a Hedy". Questo libro è una raccolta di lettere scritte in gioventù da Lord Addington e indirizzate al suo unico vero amore segreto, la domestica Hedy. Nina, durante il suo seminario, conosce un ragazzo di nome Daniel molto interessato alla storia di Hedy. Il ragazzo le confida che Hedy era sua nonna. Nina e Daniel decidono, allora, di recarsi in visita da Lord Addington per saperne di più.</desc>
-    <date>2019</date>
+    <desc lang="it">Nina accetta l'invito, da parte dell'università di Oxford, a tenere un seminario estivo. Appena arrivata, incontra il suo vecchio professore, Thomas Rothwell, con il quale, anni prima, aveva intrecciato una relazione mentre lavoravano alla stesura del libro "lettere a Hedy". Questo libro è una raccolta di lettere scritte in gioventù da Lord Addington e indirizzate al suo unico vero amore segreto, la domestica Hedy. Nina, durante il suo seminario, conosce un ragazzo di nome Daniel molto interessato alla storia di Hedy. Il ragazzo le confida che Hedy era sua nonna. Nina e Daniel decidono, allora, di recarsi in visita da Lord Addington per saperne di più. Nina accetta l'invito, da parte dell'università di Oxford, a tenere un seminario estivo. Appena arrivata, incontra il suo vecchio professore, Thomas Rothwell, con il quale, anni prima, aveva intrecciato una relazione mentre lavoravano alla stesura del libro \"lettere a Hedy\". Questo libro è una raccolta di lettere scritte in gioventù da Lord Addington e indirizzate al suo unico vero amore segreto, la domestica Hedy. Nina, durante il suo seminario, conosce un ragazzo di nome Daniel molto interessato alla storia di Hedy. Il ragazzo le confida che Hedy era sua nonna. Nina e Daniel decidono, allora, di recarsi in visita da Lord Addington per saperne di più.</desc>
+    <credits>
+      <director>Karola Meeder</director>
+      <actor>Mira Bartuschek</actor>
+      <actor>Dominic Raacke</actor>
+      <actor>Michael Raphael</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Sentimentale</category>
     <icon src="https://www.raiplay.it/dl/img/2020/08/21/1598022847013_2048x1152.jpg"></icon>
+    <country lang="it">Germania</country>
   </programme>
 <programme start="20261011130000 +0200" stop="20261011133000 +0200" channel="Rai2.it">
     <title lang="it">Tg2</title>
-    <date>2019</date>
+    <date>2024</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011133000 +0200" stop="20261011135800 +0200" channel="Rai2.it">
     <title lang="it">TG2 Motori</title>
-    <desc lang="it">Direttore Antonio Preziosi A cura di Maria Leitner.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Antonio Preziosi A cura di Maria Leitner. Direttore Antonio Preziosi A cura di Maria Leitner.</desc>
     <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616313810740_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011135800 +0200" stop="20261011140000 +0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645323036_RaiMeteo2048x1152.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011140000 +0200" stop="20261011145500 +0200" channel="Rai2.it">
     <title lang="it">Maserati - Il secolo del Tridente</title>
-    <desc lang="it">1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26.</desc>
-    <date>2019</date>
+    <desc lang="it">1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26. 1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26.</desc>
+    <date>2026</date>
+    <category lang="it">Uomini &amp; Società</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791541635811_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-<programme start="20261011145500 +0200" stop="20261011180500 +0200" channel="Rai2.it">
+<programme start="20261011145500 +0200" stop="20261011161500 +0200" channel="Rai2.it">
     <title lang="it">Serie C</title>
     <sub-title lang="it">9a giornata: Casarano - Salernitana</sub-title>
-    <desc lang="it">Serie C - 9a giornata: Casarano - Salernitana.</desc>
-    <date>2019</date>
+    <desc lang="it">Serie C - 9a giornata: Casarano - Salernitana. Serie C - 9a giornata: Casarano - Salernitana.</desc>
+    <date>2024</date>
+    <category lang="it">Calcio</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/04/1791146908899_Nuovo%20progetto.jpg"></icon>
+    <country lang="it">Italia</country>
+  </programme>
+<programme start="20261011161500 +0200" stop="20261011180500 +0200" channel="Rai2.it">
+    <title lang="it">La Domenica Sportiva</title>
+    <sub-title lang="it">Puntata del 11/10/2026</sub-title>
+    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/08/21/1787316377807_domenica%20sportiva%202026%20-%202048x1152.jpg"></icon>
   </programme>
 <programme start="20261011180500 +0200" stop="20261011185500 +0200" channel="Rai2.it">
     <title lang="it">TG2 Dossier</title>
     <sub-title lang="it">C'era una volta un burattino - 10/10/2026</sub-title>
-    <desc lang="it">A 200 anni dalla nascita di Collodi, il viaggio senza fine di Pinocchio tra letteratura, cinema e immaginario collettivo. L'inviata Cinzia Terlizzi porta i telespettatori nel mondo di uno degli autori italiani più conosciuti: Carlo Lorenzini, in arte Collodi, giornalista, scrittore e osservatore ironico della società del suo tempo. Il racconto della sua vita e della sua opera più celebre: Pinocchio, il burattino diventato un'icona universale della letteratura, del cinema e della cultura popolare, che è molto più di una favola. Un classico senza tempo, un patrimonio culturale italiano che il mondo continua a reinterpretare e che, attraverso il cinema, non smette di rinnovare la propria magia.</desc>
-    <date>2019</date>
+    <desc lang="it">A 200 anni dalla nascita di Collodi, il viaggio senza fine di Pinocchio tra letteratura, cinema e immaginario collettivo. L'inviata Cinzia Terlizzi porta i telespettatori nel mondo di uno degli autori italiani più conosciuti: Carlo Lorenzini, in arte Collodi, giornalista, scrittore e osservatore ironico della società del suo tempo. Il racconto della sua vita e della sua opera più celebre: Pinocchio, il burattino diventato un'icona universale della letteratura, del cinema e della cultura popolare, che è molto più di una favola. Un classico senza tempo, un patrimonio culturale italiano che il mondo continua a reinterpretare e che, attraverso il cinema, non smette di rinnovare la propria magia. A 200 anni dalla nascita di Collodi, il viaggio senza fine di Pinocchio tra letteratura, cinema e immaginario collettivo. L'inviata Cinzia Terlizzi porta i telespettatori nel mondo di uno degli autori italiani più conosciuti: Carlo Lorenzini, in arte Collodi, giornalista, scrittore e osservatore ironico della società del suo tempo. Il racconto della sua vita e della sua opera più celebre: Pinocchio, il burattino diventato un'icona universale della letteratura, del cinema e della cultura popolare, che è molto più di una favola. Un classico senza tempo, un patrimonio culturale italiano che il mondo continua a reinterpretare e che, attraverso il cinema, non smette di rinnovare la propria magia.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/08/1791489599297_Thumb-EP.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011185500 +0200" stop="20261011190000 +0200" channel="Rai2.it">
     <title lang="it">TG2 LIS</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616314226970_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011190000 +0200" stop="20261011194500 +0200" channel="Rai2.it">
     <title lang="it">Blue Bloods</title>
@@ -8495,57 +8619,82 @@
 <programme start="20261011080000 +0200" stop="20261011101500 +0200" channel="Rai3.it">
     <title lang="it">Mi manda Rai Tre</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">La grazia parziale – cioè una riduzione della pena da scontare – che il presidente della Repubblica ha concesso a Guido Gianni, gioielliere condannato per aver ucciso due rapinatori nel 2008, riaccende il dibattito sulla legittima difesa. A seguire, il pane è un alimento che non manca mai sulle tavole italiane, ma si sa davvero quello che si compra? Non è sempre facile orientarsi fra diciture ed etichette, da artigianale a precotto, da fresco a congelato e comprendere qual è il prodotto migliore da scegliere. Coi Carabinieri dei Nas indagini per verificare la conservazione e le etichette regolari di alcuni prodotti da forno. In diretta anche il caso, esploso la scorsa estate, delle maglie dei Vigili del fuoco che si sciolgono in acqua: cosa è accaduto realmente? Tra gli ospiti di Federico Ruffo: Massimo Lugli, giornalista e scrittore; Francesco Borgonovo, vicedirettore La Verità; Antonio Di Pietro, ex magistrato; Fulvio Marino, panettiere; Daniele Paci, agronomo; Gaetano Marconato, panificatore Cna; Rodolfo Molettieri, panificatore Confesercenti.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/08/19/1755616587306_MI%20manda%20Raitre.jpg"></icon>
+    <desc lang="it">La grazia parziale – cioè una riduzione della pena da scontare – che il presidente della Repubblica ha concesso a Guido Gianni, gioielliere condannato per aver ucciso due rapinatori nel 2008, riaccende il dibattito sulla legittima difesa. A seguire, il pane è un alimento che non manca mai sulle tavole italiane, ma si sa davvero quello che si compra? Non è sempre facile orientarsi fra diciture ed etichette, da artigianale a precotto, da fresco a congelato e comprendere qual è il prodotto migliore da scegliere. Coi Carabinieri dei Nas indagini per verificare la conservazione e le etichette regolari di alcuni prodotti da forno. In diretta anche il caso, esploso la scorsa estate, delle maglie dei Vigili del fuoco che si sciolgono in acqua: cosa è accaduto realmente? Tra gli ospiti di Federico Ruffo: Massimo Lugli, giornalista e scrittore; Francesco Borgonovo, vicedirettore La Verità; Antonio Di Pietro, ex magistrato; Fulvio Marino, panettiere; Daniele Paci, agronomo; Gaetano Marconato, panificatore Cna; Rodolfo Molettieri, panificatore Confesercenti. La grazia parziale – cioè una riduzione della pena da scontare – che il presidente della Repubblica ha concesso a Guido Gianni, gioielliere condannato per aver ucciso due rapinatori nel 2008, riaccende il dibattito sulla legittima difesa. A seguire, il pane è un alimento che non manca mai sulle tavole italiane, ma si sa davvero quello che si compra? Non è sempre facile orientarsi fra diciture ed etichette, da artigianale a precotto, da fresco a congelato e comprendere qual è il prodotto migliore da scegliere. Coi Carabinieri dei Nas indagini per verificare la conservazione e le etichette regolari di alcuni prodotti da forno. In diretta anche il caso, esploso la scorsa estate, delle maglie dei Vigili del fuoco che si sciolgono in acqua: cosa è accaduto realmente? Tra gli ospiti di Federico Ruffo: Massimo Lugli, giornalista e scrittore; Francesco Borgonovo, vicedirettore La Verità; Antonio Di Pietro, ex magistrato; Fulvio Marino, panettiere; Daniele Paci, agronomo; Gaetano Marconato, panificatore Cna; Rodolfo Molettieri, panificatore Confesercenti.</desc>
+    <credits>
+      <director>Fabio Calabrò</director>
+      <presenter>Federico Ruffo</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735409646_1791735385634.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011101500 +0200" stop="20261011110500 +0200" channel="Rai3.it">
     <title lang="it">O anche no</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
-    <date>2019</date>
+    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste. Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
+    <credits>
+      <director>Gabriele Mammarella</director>
+      <presenter>Paola Severini Melograni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791558654537_7495.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011110500 +0200" stop="20261011113000 +0200" channel="Rai3.it">
     <title lang="it">TGR Estovest</title>
-    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Friuli-Venezia Giulia e Puglia.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Friuli-Venezia Giulia e Puglia. Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Friuli-Venezia Giulia e Puglia.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2025/10/10/1760118059999_TGREstOvest2048x1152.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011113000 +0200" stop="20261011120000 +0200" channel="Rai3.it">
     <title lang="it">TGR Mediterraneo</title>
-    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettore Roberto Gueli. A cura della TGR Sicilia.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettore Roberto Gueli. A cura della TGR Sicilia. Direttore Roberto Pacchetti. Vicedirettore Roberto Gueli. A cura della TGR Sicilia.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2025/09/15/1757942929150_TGRMediterraneo2048x1152.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011120000 +0200" stop="20261011121700 +0200" channel="Rai3.it">
     <title lang="it">Tg3</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256622733_TG3_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011121700 +0200" stop="20261011122500 +0200" channel="Rai3.it">
     <title lang="it">Tg3 Fuorilinea</title>
-    <desc lang="it">A cura di Giovanni Battista Tomassini.</desc>
-    <date>2019</date>
+    <desc lang="it">A cura di Giovanni Battista Tomassini. A cura di Giovanni Battista Tomassini.</desc>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/08/1791475669006_TG3Fuorilinea_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011122500 +0200" stop="20261011125500 +0200" channel="Rai3.it">
     <title lang="it">TGR Alta Quota</title>
-    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della TGR Lazio, Piemonte, Trentino-Alto Adige e Valle d'Aosta.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della TGR Lazio, Piemonte, Trentino-Alto Adige e Valle d'Aosta. Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della TGR Lazio, Piemonte, Trentino-Alto Adige e Valle d'Aosta.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2025/10/15/1760538349666_TGRAltaQuota2048x1152.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011125500 +0200" stop="20261011130000 +0200" channel="Rai3.it">
     <title lang="it">TG3 LIS</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/30/1790783451323_TG3LIS_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011130000 +0200" stop="20261011140000 +0200" channel="Rai3.it">
     <title lang="it">Il cacciatore di sogni</title>
     <sub-title lang="it">Luna Blu - 11/10/2026</sub-title>
-    <desc lang="it">Stefano Buttafuoco racconta la realtà di "Luna Blu", una struttura che promuove l'inclusione delle persone con disabilità attraverso accoglienza, formazione professionale, lavoro e autonomia. Ospite in studio Ainett Stephens, che condivide la propria esperienza di madre di un figlio nello spettro autistico e il suo ruolo di caregiver.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/02/1790973986495_cacciatore%20dei%20sogni%202048x1152.jpg"></icon>
+    <desc lang="it">Stefano Buttafuoco racconta la realtà di "Luna Blu", una struttura che promuove l'inclusione delle persone con disabilità attraverso accoglienza, formazione professionale, lavoro e autonomia. Ospite in studio Ainett Stephens, che condivide la propria esperienza di madre di un figlio nello spettro autistico e il suo ruolo di caregiver. Stefano Buttafuoco racconta la realtà di \"Luna Blu\.</desc>
+    <credits>
+      <director>Francesco Ambrosino</director>
+      <director>Fabrizio Cofrancesco</director>
+      <presenter>Stefano Buttafuoco</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735370534_1791735289479.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
 <programme start="20261011140000 +0200" stop="20261011141000 +0200" channel="Rai3.it">
@@ -8560,27 +8709,41 @@
   </programme>
 <programme start="20261011141500 +0200" stop="20261011143000 +0200" channel="Rai3.it">
     <title lang="it">Tg3</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256622733_TG3_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011143000 +0200" stop="20261011164500 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/09/28/1695892524888_2048x1152.jpg"></icon>
+    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo. Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
+    <credits>
+      <director>Alessandro Capitani</director>
+      <presenter>Monica Maggioni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735389159_1791735278548.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011164500 +0200" stop="20261011190000 +0200" channel="Rai3.it">
     <title lang="it">Kilimangiaro</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Camila Raznovich ci porta nei luoghi più belli e spesso sconosciuti del pianeta attraverso tanti documentari e gli esperti in studio, per un giro del mondo tra avventure, storia e meraviglie della natura.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/10/20/1760961247792_2048x1152.jpg"></icon>
+    <desc lang="it">Camila Raznovich ci porta nei luoghi più belli e spesso sconosciuti del pianeta attraverso tanti documentari e gli esperti in studio, per un giro del mondo tra avventure, storia e meraviglie della natura. Camila Raznovich ci porta nei luoghi più belli e spesso sconosciuti del pianeta attraverso tanti documentari e gli esperti in studio, per un giro del mondo tra avventure, storia e meraviglie della natura.</desc>
+    <credits>
+      <director>Laura Ferraresi</director>
+      <presenter>Camila Raznovich</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Viaggi &amp; Avventure</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735395701_1791735257572.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011190000 +0200" stop="20261011193000 +0200" channel="Rai3.it">
     <title lang="it">Tg3</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256622733_TG3_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011193000 +0200" stop="20261011195100 +0200" channel="Rai3.it">
     <title lang="it">Tg Regione</title>
@@ -8628,9 +8791,15 @@
 <programme start="20261012003500 +0200" stop="20261012024000 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
-    <date>2019</date>
+    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo. Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
+    <credits>
+      <director>Alessandro Capitani</director>
+      <presenter>Monica Maggioni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/28/1695892524888_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261012024000 +0200" stop="20261012024500 +0200" channel="Rai3.it">
     <title lang="it">Fuori orario. Cose (mai) viste</title>
@@ -8887,9 +9056,15 @@
 <programme start="20261013011500 +0200" stop="20261013020000 +0200" channel="Rai3.it">
     <title lang="it">O anche no</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
-    <date>2019</date>
+    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste. Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
+    <credits>
+      <director>Gabriele Mammarella</director>
+      <presenter>Paola Severini Melograni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/05/1693905098556_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261013020000 +0200" stop="20261013023000 +0200" channel="Rai3.it">
     <title lang="it">Sorgente di vita</title>
@@ -9495,9 +9670,18 @@
 <programme start="20261011095400 +0200" stop="20261011104400 +0200" channel="Rai4.it">
     <title lang="it">Criminal Minds</title>
     <sub-title lang="it">Il patto col diavolo</sub-title>
-    <desc lang="it">Dopo il ritrovamento dei corpi di due uomini nell'area di Washington D.C. con le colonne vertebrali recise, la squadra indaga nell'ambito delle parafilie, in particolare del cuckolding, poiché entrambi ne erano praticanti, capendo che il killer probabilmente è anch'egli un toro che si vendica su altri ad esempio per essere stato respinto/rifiutato dalle donne con cui doveva intrattenersi.</desc>
-    <date>2019</date>
+    <desc lang="it">Dopo il ritrovamento dei corpi di due uomini nell'area di Washington D.C. con le colonne vertebrali recise, la squadra indaga nell'ambito delle parafilie, in particolare del cuckolding, poiché entrambi ne erano praticanti, capendo che il killer probabilmente è anch'egli un toro che si vendica su altri ad esempio per essere stato respinto/rifiutato dalle donne con cui doveva intrattenersi. Dopo il ritrovamento dei corpi di due uomini nell'area di Washington D.C. con le colonne vertebrali recise, la squadra indaga nell'ambito delle parafilie, in particolare del cuckolding, poiché entrambi ne erano praticanti, capendo che il killer probabilmente è anch'egli un toro che si vendica su altri ad esempio per essere stato respinto/rifiutato dalle donne con cui doveva intrattenersi.</desc>
+    <credits>
+      <director>Jeff Davis</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Giallo And Crime</category>
     <icon src="https://www.raiplay.it/dl/img/2024/05/31/1717161475215_cf.jpg"></icon>
+    <country lang="it">USA</country>
     <episode-num system="onscreen">S16 E2</episode-num>
   </programme>
 <programme start="20261011104400 +0200" stop="20261011112800 +0200" channel="Rai4.it">
@@ -10686,9 +10870,11 @@
   </programme>
 <programme start="20261011100300 +0200" stop="20261011100900 +0200" channel="Rai5.it">
     <title lang="it">Appuntamento al cinema</title>
-    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
-    <date>2019</date>
+    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia. Rubrica per la promozione della cultura cinematografica in Italia.</desc>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2016/07/01/1467382228407_cinema_oo.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011100900 +0200" stop="20261011115700 +0200" channel="Rai5.it">
     <title lang="it">Sapiens - Un solo pianeta</title>
@@ -10707,16 +10893,24 @@
 <programme start="20261011115700 +0200" stop="20261011122700 +0200" channel="Rai5.it">
     <title lang="it">Passepartout</title>
     <sub-title lang="it">Arte e design</sub-title>
-    <desc lang="it">Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daverio. Regia Mauro Raponi. Puntata del 23/03/08.</desc>
-    <date>2019</date>
+    <desc lang="it">Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daverio. Regia Mauro Raponi. Puntata del 23/03/08. Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daverio. Regia Mauro Raponi. Puntata del 23/03/08.</desc>
+    <credits>
+      <presenter>Philippe Daverio</presenter>
+    </credits>
+    <date>2013</date>
     <icon src="https://www.raiplay.it/dl/img/2026/09/15/1789470274857_Passepartout2048x1152.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011122700 +0200" stop="20261011125900 +0200" channel="Rai5.it">
     <title lang="it">Passepartout</title>
     <sub-title lang="it">Tiziano prototipo di dopo</sub-title>
-    <desc lang="it">Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daverio. Regia Mauro Raponi. Puntata del 30/03/08.</desc>
-    <date>2019</date>
+    <desc lang="it">Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daverio. Regia Mauro Raponi. Puntata del 30/03/08. Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daverio. Regia Mauro Raponi. Puntata del 30/03/08.</desc>
+    <credits>
+      <presenter>Philippe Daverio</presenter>
+    </credits>
+    <date>2013</date>
     <icon src="https://www.raiplay.it/dl/img/2026/09/15/1789470274857_Passepartout2048x1152.png"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011125900 +0200" stop="20261011140400 +0200" channel="Rai5.it">
     <title lang="it">Maps: Musica, Arte, Poesia, Spettacolo</title>
@@ -10778,9 +10972,10 @@
   </programme>
 <programme start="20261011190000 +0200" stop="20261011190500 +0200" channel="Rai5.it">
     <title lang="it">RaiNews</title>
-    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
-    <date>2019</date>
+    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai. Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
+    <category lang="it">News &amp; Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898348700_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011190500 +0200" stop="20261011200400 +0200" channel="Rai5.it">
     <title lang="it">Il mistero dell'ultimo Van Gogh</title>
@@ -11886,7 +12081,7 @@
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2021/11/03/1635934751697_2048x1152.jpg"></icon>
   </programme>
-<programme start="20261011232000 +0200" stop="20261012025000 +0200" channel="RaiMovie.it">
+<programme start="20261011232000 +0200" stop="20261012025200 +0200" channel="RaiMovie.it">
     <title lang="it">Palermo Milano - Solo andata</title>
     <desc lang="it">Il pentito Marinnà fa il nome di Turi Arcangelo Leofonte, "il ragioniere della mafia". Per proteggerlo e farlo testimoniare contro il boss Scalìa, il giudice Laurenti lo trasferisce a Milano. La scorta, guidata dall'esperto capitano Di Venanzio, deve affrontare agguati e pericoli lungo il tragitto. Ce la faranno? Ispirata a fatti veri. Il pentito Marinnà fa il nome di Turi Arcangelo Leofonte, \"il ragioniere della mafia\". Per proteggerlo e farlo testimoniare contro il boss Scalìa, il giudice Laurenti lo trasferisce a Milano. La scorta, guidata dall'esperto capitano Di Venanzio, deve affrontare agguati e pericoli lungo il tragitto. Ce la faranno? Ispirata a fatti veri.</desc>
     <credits>
@@ -11901,7 +12096,7 @@
     <icon src="https://www.raiplay.it/dl/img/2025/08/19/1755594319071_2048x1152.jpg"></icon>
     <country lang="it">Italia</country>
   </programme>
-<programme start="20261012025000 +0200" stop="20261012050000 +0200" channel="RaiMovie.it">
+<programme start="20261012025200 +0200" stop="20261012050000 +0200" channel="RaiMovie.it">
     <title lang="it">Il magnifico cornuto</title>
     <sub-title lang="it">Il magnifico cornuto</sub-title>
     <desc lang="it">Andrea Artusi è un marito adultero ma assillato dal pensiero che la moglie possa tradirlo. La sua ossessione esaspera la donna a tal punto che, pur essendo fedele, rivela al marito il nome del presunto amante. Andrea, furioso, va a cercarlo ma rimane ferito in un incidente d'auto. Tornato a casa, si tranquillizza ma sua moglie inizia a interessarsi al medico. Andrea Artusi è un marito adultero ma assillato dal pensiero che la moglie possa tradirlo. La sua ossessione esaspera la donna a tal punto che, pur essendo fedele, rivela al marito il nome del presunto amante. Andrea, furioso, va a cercarlo ma rimane ferito in un incidente d'auto. Tornato a casa, si tranquillizza ma sua moglie inizia a interessarsi al medico.</desc>
@@ -14373,9 +14568,20 @@
   </programme>
 <programme start="20261011162500 +0200" stop="20261011165000 +0200" channel="RaiGulp.it">
     <title lang="it">Alex &amp; Co</title>
-    <desc lang="it">La compattezza degli Alex&amp;Co. sembra acqua passata. Linda vede di nuovo Sam e Rebecca insieme. Nicole ha voltato pagina, non vuole più stare male per Alex, e getta la foto che la ritraeva assieme a lui nel cestino.</desc>
-    <date>2019</date>
+    <desc lang="it">La compattezza degli Alex&amp;Co. sembra acqua passata. Linda vede di nuovo Sam e Rebecca insieme. Nicole ha voltato pagina, non vuole più stare male per Alex, e getta la foto che la ritraeva assieme a lui nel cestino. La compattezza degli Alex&amp;Co. sembra acqua passata. Linda vede di nuovo Sam e Rebecca insieme. Nicole ha voltato pagina, non vuole più stare male per Alex, e getta la foto che la ritraeva assieme a lui nel cestino.</desc>
+    <credits>
+      <director>Claudio Norza</director>
+      <actor>Leonardo Cecchi</actor>
+      <actor>Eleonora Gaggero</actor>
+      <actor>Beatrice Vendramin</actor>
+      <actor>Saul Nanni</actor>
+      <actor>Federico Russo</actor>
+      <actor>Riccardo Alemanni</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Live Action</category>
     <icon src="https://www.raiplay.it/dl/img/2018/11/30/1543573728304_alexandco_29.jpg"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S1 E29</episode-num>
   </programme>
 <programme start="20261011165000 +0200" stop="20261011171500 +0200" channel="RaiGulp.it">
@@ -19054,33 +19260,53 @@
 <programme start="20261011133500 +0200" stop="20261011134000 +0200" channel="RaiYoyo.it">
     <title lang="it">Bluey</title>
     <sub-title lang="it">Burattini</sub-title>
-    <desc lang="it">Bluey e Bingo insegnano le buone maniere a Unicavallo, in modo che possa chiedere alla mamma di uscire. Ma quando Unicavallo mangia un pidocchio va tutto a rotoli.</desc>
-    <date>2019</date>
+    <desc lang="it">Bluey e Bingo insegnano le buone maniere a Unicavallo, in modo che possa chiedere alla mamma di uscire. Ma quando Unicavallo mangia un pidocchio va tutto a rotoli. Bluey e Bingo insegnano le buone maniere a Unicavallo, in modo che possa chiedere alla mamma di uscire. Ma quando Unicavallo mangia un pidocchio va tutto a rotoli….</desc>
+    <credits>
+      <director>Joe Brumm</director>
+    </credits>
+    <date>2021</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2024/09/18/1726676057073_Bluey-S3E29.jpg"></icon>
+    <country lang="it">Australia</country>
     <episode-num system="onscreen">S3 E29</episode-num>
   </programme>
 <programme start="20261011134000 +0200" stop="20261011134500 +0200" channel="RaiYoyo.it">
     <title lang="it">Bluey</title>
     <sub-title lang="it">Tartarughine</sub-title>
-    <desc lang="it">Al parco, Bingo trova un giocattolo a forma di tartarughina e vorrebbe tenerla e portala con sé a casa. Papà le spiega che non è la cosa giusta da fare.</desc>
-    <date>2019</date>
+    <desc lang="it">Al parco, Bingo trova un giocattolo a forma di tartarughina e vorrebbe tenerla e portala con sé a casa. Papà le spiega che non è la cosa giusta da fare. Al parco, Bingo trova un giocattolo a forma di tartarughina e vorrebbe tenerla e portala con sé a casa. Papà le spiega che non è la cosa giusta da fare.</desc>
+    <credits>
+      <director>Joe Brumm</director>
+    </credits>
+    <date>2021</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2024/09/20/1726817693414_Bluey-S3E30.jpg"></icon>
+    <country lang="it">Australia</country>
     <episode-num system="onscreen">S3 E30</episode-num>
   </programme>
 <programme start="20261011134500 +0200" stop="20261011135000 +0200" channel="RaiYoyo.it">
     <title lang="it">Bluey</title>
     <sub-title lang="it">Tutine</sub-title>
-    <desc lang="it">Quando Brandy, la sorella della mamma, viene in visita, regala alle ragazze delle tutine che hanno un effetto inaspettato su Bingo.</desc>
-    <date>2019</date>
+    <desc lang="it">Quando Brandy, la sorella della mamma, viene in visita, regala alle ragazze delle tutine che hanno un effetto inaspettato su Bingo. Quando Brandy, la sorella della mamma, viene in visita, regala alle ragazze delle tutine che hanno un effetto inaspettato su Bingo!</desc>
+    <credits>
+      <director>Joe Brumm</director>
+    </credits>
+    <date>2021</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2024/09/20/1726818556054_Bluey-S3E31.jpg"></icon>
+    <country lang="it">Australia</country>
     <episode-num system="onscreen">S3 E31</episode-num>
   </programme>
 <programme start="20261011135000 +0200" stop="20261011140000 +0200" channel="RaiYoyo.it">
     <title lang="it">Bluey</title>
     <sub-title lang="it">Operai</sub-title>
-    <desc lang="it">Bluey e Bingo si nascondono dietro casa e spiano due misteriosi operai che lavorano in giardino.</desc>
-    <date>2019</date>
+    <desc lang="it">Bluey e Bingo si nascondono dietro casa e spiano due misteriosi operai che lavorano in giardino. Bluey e Bingo si nascondono dietro casa e spiano due misteriosi operai che lavorano in giardino.</desc>
+    <credits>
+      <director>Joe Brumm</director>
+    </credits>
+    <date>2021</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2024/09/20/1726818303025_Bluey-S3E32.jpg"></icon>
+    <country lang="it">Australia</country>
     <episode-num system="onscreen">S3 E32</episode-num>
   </programme>
 <programme start="20261011140000 +0200" stop="20261011140500 +0200" channel="RaiYoyo.it">
@@ -19532,33 +19758,53 @@
 <programme start="20261011181500 +0200" stop="20261011182500 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">Gara di Talenti</sub-title>
-    <desc lang="it">Bill arruola Totor per fare un numero di giocoleria con lui e vincere il trofeo alla Gara di Talenti.</desc>
-    <date>2019</date>
+    <desc lang="it">Bill arruola Totor per fare un numero di giocoleria con lui e vincere il trofeo alla Gara di Talenti. Bill arruola Totor per fare un numero di giocoleria con lui e vincere il trofeo alla Gara di Talenti.</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691103818115_Screenshot%203148.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E37</episode-num>
   </programme>
 <programme start="20261011182500 +0200" stop="20261011183500 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">I fiori fluttuanti</sub-title>
-    <desc lang="it">È il primo compleanno dei baby dino e Marsh vuole far loro un regalo speciale.</desc>
-    <date>2019</date>
+    <desc lang="it">È il primo compleanno dei baby dino e Marsh vuole far loro un regalo speciale. È il primo compleanno dei baby dino e Marsh vuole far loro un regalo speciale.</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691146367630_Screenshot%203149.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E38</episode-num>
   </programme>
 <programme start="20261011183500 +0200" stop="20261011185000 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">Non voltarti indietro</sub-title>
-    <desc lang="it">Rocky e il suo cuginetto Rolo partecipano alla gara che si svolge sopra, sotto e intorno a Cretazia…ma per Roky non sarà poi così facile "non voltarsi indietro" per vincere.</desc>
-    <date>2019</date>
+    <desc lang="it">Rocky e il suo cuginetto Rolo partecipano alla gara che si svolge sopra, sotto e intorno a Cretazia…ma per Roky non sarà poi così facile "non voltarsi indietro" per vincere. Rocky e il suo cuginetto Rolo partecipano alla gara che si svolge sopra, sotto e intorno a Cretazia…ma per Roky non sarà poi così facile \"non voltarsi indietro\" per vincere.</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691146692522_Screenshot%203150.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E39</episode-num>
   </programme>
 <programme start="20261011185000 +0200" stop="20261011190000 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">Dopo di te</sub-title>
-    <desc lang="it">Bill usa il suo kart per consentire ad Archie di provare l'esperienza del volo. Archie entusiasta dell'esperienza, vorrebbe rifarlo subito ma è il turno di Missy.</desc>
-    <date>2019</date>
+    <desc lang="it">Bill usa il suo kart per consentire ad Archie di provare l'esperienza del volo. Archie entusiasta dell'esperienza, vorrebbe rifarlo subito ma è il turno di Missy. Bill usa il suo kart per consentire ad Archie di provare l'esperienza del volo. Archie entusiasta dell'esperienza, vorrebbe rifarlo subito ma è il turno di Missy...</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691146863534_Screenshot%203151.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E40</episode-num>
   </programme>
 <programme start="20261011190000 +0200" stop="20261011190500 +0200" channel="RaiYoyo.it">
@@ -19624,17 +19870,30 @@
 <programme start="20261011193000 +0200" stop="20261011195000 +0200" channel="RaiYoyo.it">
     <title lang="it">Firebuds</title>
     <sub-title lang="it">Una giornata in fattoria / L'ora della spazzatura</sub-title>
-    <desc lang="it">Durante una visita a una fattoria, Flash provoca inavvertitamente un incendio in un silo. Smush e i Firebuds cercano di raccogliere tutti i rifiuti presenti a Gearbox Grove.</desc>
-    <date>2019</date>
+    <desc lang="it">Durante una visita a una fattoria, Flash provoca inavvertitamente un incendio in un silo. Smush e i Firebuds cercano di raccogliere tutti i rifiuti presenti a Gearbox Grove. Durante una visita a una fattoria, Flash provoca inavvertitamente un incendio in un silo. Smush e i Firebuds cercano di raccogliere tutti i rifiuti presenti a Gearbox Grove.</desc>
+    <credits>
+      <director>Robb Pratt</director>
+      <director>Kris Wimberly</director>
+      <director>Julius Aguimatang</director>
+      <producer>Rai Ragazzi</producer>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/06/1788709902274_firebuds-s3e58-una-giornata-in-fattoria-l-ora-della-spazzatura.jpg"></icon>
+    <country lang="it">USA</country>
     <episode-num system="onscreen">S3 E58</episode-num>
   </programme>
 <programme start="20261011195000 +0200" stop="20261011201500 +0200" channel="RaiYoyo.it">
     <title lang="it">Topolino - La casa del divertimento</title>
     <sub-title lang="it">Un picnic per Spassy / Il pesciolino di Pippo</sub-title>
-    <desc lang="it">Topolino, Minni e i loro amici vogliono organizzare un picnic per Spassy, che però non sta bene. Spassy porta tutto il gruppo nel Mondo in Fondo al Mar, trasformandoli in sirene.</desc>
-    <date>2019</date>
+    <desc lang="it">Topolino, Minni e i loro amici vogliono organizzare un picnic per Spassy, che però non sta bene. Spassy porta tutto il gruppo nel Mondo in Fondo al Mar, trasformandoli in sirene. Topolino, Minni e i loro amici vogliono organizzare un picnic per Spassy, che però non sta bene. Spassy porta tutto il gruppo nel Mondo in Fondo al Mar, trasformandoli in sirene.</desc>
+    <credits>
+      <producer>Rai Ragazzi</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2025/07/01/1751366386337_topolino-e-la-casa-del-divertimento-s1e2-un-picnic-per-spassy-il-pesciolino-di-pippo.jpg"></icon>
+    <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
 <programme start="20261011201500 +0200" stop="20261011202000 +0200" channel="RaiYoyo.it">
@@ -19648,9 +19907,14 @@
 <programme start="20261011202000 +0200" stop="20261011204500 +0200" channel="RaiYoyo.it">
     <title lang="it">Vampirina</title>
     <sub-title lang="it">Un tour fantasmagorico / Ali per imparare</sub-title>
-    <desc lang="it">Le Scream Girls chiedono alle Ragazze Spiritelle di aprire i loro concerti in un tour in varie città della Transilvania! Vi si demoralizza dopo essere caduta durante una lezione di guida della bici.</desc>
-    <date>2019</date>
+    <desc lang="it">Le Scream Girls chiedono alle Ragazze Spiritelle di aprire i loro concerti in un tour in varie città della Transilvania! Vi si demoralizza dopo essere caduta durante una lezione di guida della bici. Le Scream Girls chiedono alle Ragazze Spiritelle di aprire i loro concerti in un tour in varie città della Transilvania! Vi si demoralizza dopo essere caduta durante una lezione di guida della bici!</desc>
+    <credits>
+      <producer>Rai Ragazzi</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2025/05/16/1747407136594_vampirina-s3e53_2048x1152.jpg"></icon>
+    <country lang="it">USA</country>
     <episode-num system="onscreen">S3 E53</episode-num>
   </programme>
 <programme start="20261011204500 +0200" stop="20261011205000 +0200" channel="RaiYoyo.it">
@@ -20447,33 +20711,53 @@
 <programme start="20261012044500 +0200" stop="20261012045500 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">Gara di Talenti</sub-title>
-    <desc lang="it">Bill arruola Totor per fare un numero di giocoleria con lui e vincere il trofeo alla Gara di Talenti.</desc>
-    <date>2019</date>
+    <desc lang="it">Bill arruola Totor per fare un numero di giocoleria con lui e vincere il trofeo alla Gara di Talenti. Bill arruola Totor per fare un numero di giocoleria con lui e vincere il trofeo alla Gara di Talenti.</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691103818115_Screenshot%203148.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E37</episode-num>
   </programme>
 <programme start="20261012045500 +0200" stop="20261012050500 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">I fiori fluttuanti</sub-title>
-    <desc lang="it">È il primo compleanno dei baby dino e Marsh vuole far loro un regalo speciale.</desc>
-    <date>2019</date>
+    <desc lang="it">È il primo compleanno dei baby dino e Marsh vuole far loro un regalo speciale. È il primo compleanno dei baby dino e Marsh vuole far loro un regalo speciale.</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691146367630_Screenshot%203149.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E38</episode-num>
   </programme>
 <programme start="20261012050500 +0200" stop="20261012052000 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">Non voltarti indietro</sub-title>
-    <desc lang="it">Rocky e il suo cuginetto Rolo partecipano alla gara che si svolge sopra, sotto e intorno a Cretazia…ma per Roky non sarà poi così facile "non voltarsi indietro" per vincere.</desc>
-    <date>2019</date>
+    <desc lang="it">Rocky e il suo cuginetto Rolo partecipano alla gara che si svolge sopra, sotto e intorno a Cretazia…ma per Roky non sarà poi così facile "non voltarsi indietro" per vincere. Rocky e il suo cuginetto Rolo partecipano alla gara che si svolge sopra, sotto e intorno a Cretazia…ma per Roky non sarà poi così facile \"non voltarsi indietro\" per vincere.</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691146692522_Screenshot%203150.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E39</episode-num>
   </programme>
 <programme start="20261012052000 +0200" stop="20261012053000 +0200" channel="RaiYoyo.it">
     <title lang="it">Gigantosaurus</title>
     <sub-title lang="it">Dopo di te</sub-title>
-    <desc lang="it">Bill usa il suo kart per consentire ad Archie di provare l'esperienza del volo. Archie entusiasta dell'esperienza, vorrebbe rifarlo subito ma è il turno di Missy.</desc>
-    <date>2019</date>
+    <desc lang="it">Bill usa il suo kart per consentire ad Archie di provare l'esperienza del volo. Archie entusiasta dell'esperienza, vorrebbe rifarlo subito ma è il turno di Missy. Bill usa il suo kart per consentire ad Archie di provare l'esperienza del volo. Archie entusiasta dell'esperienza, vorrebbe rifarlo subito ma è il turno di Missy...</desc>
+    <credits>
+      <director>Olivier Lelardoux</director>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2023/08/04/1691146863534_Screenshot%203151.png"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S3 E40</episode-num>
   </programme>
 <programme start="20261012053000 +0200" stop="20261012053500 +0200" channel="RaiYoyo.it">
@@ -20764,17 +21048,30 @@
 <programme start="20261012083000 +0200" stop="20261012085000 +0200" channel="RaiYoyo.it">
     <title lang="it">Firebuds</title>
     <sub-title lang="it">Una giornata in fattoria / L'ora della spazzatura</sub-title>
-    <desc lang="it">Durante una visita a una fattoria, Flash provoca inavvertitamente un incendio in un silo. Smush e i Firebuds cercano di raccogliere tutti i rifiuti presenti a Gearbox Grove.</desc>
-    <date>2019</date>
+    <desc lang="it">Durante una visita a una fattoria, Flash provoca inavvertitamente un incendio in un silo. Smush e i Firebuds cercano di raccogliere tutti i rifiuti presenti a Gearbox Grove. Durante una visita a una fattoria, Flash provoca inavvertitamente un incendio in un silo. Smush e i Firebuds cercano di raccogliere tutti i rifiuti presenti a Gearbox Grove.</desc>
+    <credits>
+      <director>Robb Pratt</director>
+      <director>Kris Wimberly</director>
+      <director>Julius Aguimatang</director>
+      <producer>Rai Ragazzi</producer>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/06/1788709902274_firebuds-s3e58-una-giornata-in-fattoria-l-ora-della-spazzatura.jpg"></icon>
+    <country lang="it">USA</country>
     <episode-num system="onscreen">S3 E58</episode-num>
   </programme>
 <programme start="20261012085000 +0200" stop="20261012091500 +0200" channel="RaiYoyo.it">
     <title lang="it">Vampirina</title>
     <sub-title lang="it">Un tour fantasmagorico / Ali per imparare</sub-title>
-    <desc lang="it">Le Scream Girls chiedono alle Ragazze Spiritelle di aprire i loro concerti in un tour in varie città della Transilvania! Vi si demoralizza dopo essere caduta durante una lezione di guida della bici.</desc>
-    <date>2019</date>
+    <desc lang="it">Le Scream Girls chiedono alle Ragazze Spiritelle di aprire i loro concerti in un tour in varie città della Transilvania! Vi si demoralizza dopo essere caduta durante una lezione di guida della bici. Le Scream Girls chiedono alle Ragazze Spiritelle di aprire i loro concerti in un tour in varie città della Transilvania! Vi si demoralizza dopo essere caduta durante una lezione di guida della bici!</desc>
+    <credits>
+      <producer>Rai Ragazzi</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="it">Cartoni Animati</category>
     <icon src="https://www.raiplay.it/dl/img/2025/05/16/1747407136594_vampirina-s3e53_2048x1152.jpg"></icon>
+    <country lang="it">USA</country>
     <episode-num system="onscreen">S3 E53</episode-num>
   </programme>
 <programme start="20261012091500 +0200" stop="20261012092500 +0200" channel="RaiYoyo.it">
@@ -26532,8 +26829,7 @@
   </programme>
 <programme start="20261011093500 +0200" stop="20261011095500 +0200" channel="RaiStoria.it">
     <title lang="it">Biglietto d'invito dall'ambasciata di Francia</title>
-    <desc lang="it">L'intervista del 1958 di Carlo Mazzarella e Gianni Granzotto allo scrittore e regista Jean Cocteau, in diretta televisiva a Palazzo Farnese, sede dell'Ambasciata di Francia a Roma.</desc>
-    <date>2019</date>
+    <desc lang="it">L'intervista del 1958 di Carlo Mazzarella e Gianni Granzotto allo scrittore e regista Jean Cocteau, in diretta televisiva a Palazzo Farnese, sede dell'Ambasciata di Francia a Roma. L'intervista del 1958 di Carlo Mazzarella e Gianni Granzotto allo scrittore e regista Jean Cocteau, in diretta televisiva a Palazzo Farnese, sede dell'Ambasciata di Francia a Roma.</desc>
     <icon src="https://www.raiplay.it/dl/img/2023/10/03/1696322107018_1%20Raistoria-2048x1152.jpg"></icon>
   </programme>
 <programme start="20261011095500 +0200" stop="20261011105500 +0200" channel="RaiStoria.it">
@@ -26570,15 +26866,13 @@
 <programme start="20261011120500 +0200" stop="20261011130000 +0200" channel="RaiStoria.it">
     <title lang="it">Tablet Italia in 4d</title>
     <sub-title lang="it">Il giro di Boa</sub-title>
-    <desc lang="it">Un viaggio nella vita degli italiani, per scoprire com è cambiato in 50 anni il nostro modo di vivere le età della vita.</desc>
-    <date>2019</date>
+    <desc lang="it">Un viaggio nella vita degli italiani, per scoprire com è cambiato in 50 anni il nostro modo di vivere le età della vita. Un viaggio nella vita degli italiani, per scoprire com è cambiato in 50 anni il nostro modo di vivere le età della vita.</desc>
     <icon src="https://www.raiplay.it/dl/img/2020/10/16/1602836343944_1488815095224_italia_pal.jpg"></icon>
   </programme>
 <programme start="20261011130000 +0200" stop="20261011140000 +0200" channel="RaiStoria.it">
     <title lang="it">Falqui Show</title>
     <sub-title lang="it">Puntata 3</sub-title>
-    <desc lang="it">Il meglio del varietà Rai firmato Antonello Falqui.</desc>
-    <date>2019</date>
+    <desc lang="it">Il meglio del varietà Rai firmato Antonello Falqui. Il meglio del varietà Rai firmato Antonello Falqui.</desc>
     <icon src="https://www.raiplay.it/dl/img/2025/08/26/1756216396270_FalquiShow.png"></icon>
   </programme>
 <programme start="20261011140000 +0200" stop="20261011142000 +0200" channel="RaiStoria.it">
@@ -26624,27 +26918,50 @@
 <programme start="20261011164500 +0200" stop="20261011173500 +0200" channel="RaiStoria.it">
     <title lang="it">La Grande Storia</title>
     <sub-title lang="it">Due papi e 2.500 vescovi. Il Concilio Vaticano II</sub-title>
-    <desc lang="it">L'11 ottobre 1962 papa Giovanni Paolo XXIII, al secolo Angelo Giuseppe Roncalli, dichiarava aperto il Concilio Vaticano II. Era stato lo stesso pontefice a indirlo, nel gennaio 1959, a soli tre mesi dalla sua elezione al soglio di Pietro. La scelta avveniva in un momento in cui la Chiesa era percorsa da tendenze teologiche innovatrici che rispecchiavano lo spirito dei tempi, lo spirito di un mondo che rifletteva il conflitto tra modernità e conservazione. L'importanza del Concilio Vaticano II, che raccoglieva da tutto il mondo quasi 2.500 cardinali, patriarchi e vescovi, è ancora oggi al centro del dibattito storico e dottrinale. Papa Giovanni XXIII moriva pochi mesi dopo l'apertura del Concilio, il 3 giugno 1963. La scomparsa del pontefice non provocava tuttavia la sospensione del sinodo, che continuava sotto la guida del nuovo papa Paolo VI. Il Concilio si sarebbe concluso tre anni dopo, l'8 dicembre 1965. A sessant'anni dall'evento La Grande Storia Anniversari ne racconta i momenti principali. La puntata si avvale di importanti materiali di repertorio e delle interviste agli storici Enrico Galavotti e Federico Ruozzi.</desc>
-    <date>2019</date>
+    <desc lang="it">L'11 ottobre 1962 papa Giovanni Paolo XXIII, al secolo Angelo Giuseppe Roncalli, dichiarava aperto il Concilio Vaticano II. Era stato lo stesso pontefice a indirlo, nel gennaio 1959, a soli tre mesi dalla sua elezione al soglio di Pietro. La scelta avveniva in un momento in cui la Chiesa era percorsa da tendenze teologiche innovatrici che rispecchiavano lo spirito dei tempi, lo spirito di un mondo che rifletteva il conflitto tra modernità e conservazione. L'importanza del Concilio Vaticano II, che raccoglieva da tutto il mondo quasi 2.500 cardinali, patriarchi e vescovi, è ancora oggi al centro del dibattito storico e dottrinale. Papa Giovanni XXIII moriva pochi mesi dopo l'apertura del Concilio, il 3 giugno 1963. La scomparsa del pontefice non provocava tuttavia la sospensione del sinodo, che continuava sotto la guida del nuovo papa Paolo VI. Il Concilio si sarebbe concluso tre anni dopo, l'8 dicembre 1965. A sessant'anni dall'evento La Grande Storia Anniversari ne racconta i momenti principali. La puntata si avvale di importanti materiali di repertorio e delle interviste agli storici Enrico Galavotti e Federico Ruozzi. L'11 ottobre 1962 papa Giovanni Paolo XXIII, al secolo Angelo Giuseppe Roncalli, dichiarava aperto il Concilio Vaticano II. Era stato lo stesso pontefice a indirlo, nel gennaio 1959, a soli tre mesi dalla sua elezione al soglio di Pietro. La scelta avveniva in un momento in cui la Chiesa era percorsa da tendenze teologiche innovatrici che rispecchiavano lo spirito dei tempi, lo spirito di un mondo che rifletteva il conflitto tra modernità e conservazione. L'importanza del Concilio Vaticano II, che raccoglieva da tutto il mondo quasi 2.500 cardinali, patriarchi e vescovi, è ancora oggi al centro del dibattito storico e dottrinale. Papa Giovanni XXIII moriva pochi mesi dopo l'apertura del Concilio, il 3 giugno 1963. La scomparsa del pontefice non provocava tuttavia la sospensione del sinodo, che continuava sotto la guida del nuovo papa Paolo VI. Il Concilio si sarebbe concluso tre anni dopo, l'8 dicembre 1965. A sessant'anni dall'evento La Grande Storia Anniversari ne racconta i momenti principali. La puntata si avvale di importanti materiali di repertorio e delle interviste agli storici Enrico Galavotti e Federico Ruozzi.</desc>
+    <credits>
+      <actor>Enrico Galavotti</actor>
+      <actor>Federico Ruozzi</actor>
+      <presenter>Paolo Mieli</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Storia &amp; Arte</category>
     <icon src="https://www.raiplay.it/dl/img/2022/10/20/1666266640814_La%20Grande%20Storia.jpg"></icon>
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S2022</episode-num>
   </programme>
 <programme start="20261011173500 +0200" stop="20261011183000 +0200" channel="RaiStoria.it">
     <title lang="it">Francesco (miniserie)</title>
-    <desc lang="it">Un abile uomo di guerra che seppe far recitare a Venezia un ruolo da protagonista sulla scena Europea, confrontandosi a più riprese contro i turchi e nella guerra di Morea (Peloponneso).. - Di Davide Savelli Regia di Agostino Pozzi e Matteo Berdini Produttore esecutivo Germana Mudanò.</desc>
-    <date>2019</date>
+    <desc lang="it">Un abile uomo di guerra che seppe far recitare a Venezia un ruolo da protagonista sulla scena Europea, confrontandosi a più riprese contro i turchi e nella guerra di Morea (Peloponneso).. - Di Davide Savelli Regia di Agostino Pozzi e Matteo Berdini Produttore esecutivo Germana Mudanò. Un abile uomo di guerra che seppe far recitare a Venezia un ruolo da protagonista sulla scena Europea, confrontandosi a più riprese contro i turchi e nella guerra di Morea (Peloponneso).. - Di Davide Savelli  Regia di Agostino Pozzi e Matteo Berdini  Produttore esecutivo Germana Mudanò.</desc>
+    <credits>
+      <director>Liliana Cavani</director>
+      <actor>Mateusz Kosciukiewicz</actor>
+      <actor>Sara Serraiocco</actor>
+      <actor>Vinicio Marchioni</actor>
+      <actor>Rutger Hauer</actor>
+      <actor>Gisella Volodi</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="it">Drammatico</category>
     <icon src="https://www.raiplay.it/dl/img/2019/11/26/1574759044597_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011183000 +0200" stop="20261011183500 +0200" channel="RaiStoria.it">
     <title lang="it">RaiNews</title>
-    <date>2019</date>
+    <category lang="it">News &amp; Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898348700_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011183500 +0200" stop="20261011193500 +0200" channel="RaiStoria.it">
     <title lang="it">Telemaco</title>
-    <desc lang="it">Quattro giovani studiosi in un viaggio alla ricerca di storie e di luoghi. Ognuno un Telemaco di oggi, simbolo di una generazione: quella dei figli, del dinamismo, del futuro che non dimentica il passato.. - Un programma di Alessandra Bisegna e Gianluca Miligi Con Emanuela Lucchetti, Matteo Marroni, David Ognibene, Carla Oppo A cura di Eleonora Limiti Produttore esecutivo Martina Cervino Regia Luca Mancini.</desc>
-    <date>2019</date>
+    <desc lang="it">Quattro giovani studiosi in un viaggio alla ricerca di storie e di luoghi. Ognuno un Telemaco di oggi, simbolo di una generazione: quella dei figli, del dinamismo, del futuro che non dimentica il passato.. - Un programma di Alessandra Bisegna e Gianluca Miligi Con Emanuela Lucchetti, Matteo Marroni, David Ognibene, Carla Oppo A cura di Eleonora Limiti Produttore esecutivo Martina Cervino Regia Luca Mancini. Quattro giovani studiosi in un viaggio alla ricerca di storie e di luoghi. Ognuno un Telemaco di oggi, simbolo di una generazione: quella dei figli, del dinamismo, del futuro che non dimentica il passato.. - Un programma di Alessandra Bisegna e Gianluca Miligi  Con Emanuela Lucchetti, Matteo Marroni, David Ognibene, Carla Oppo  A cura di Eleonora Limiti  Produttore esecutivo Martina Cervino  Regia Luca Mancini.</desc>
+    <credits>
+      <director>Stefano Chimisso</director>
+    </credits>
+    <date>2023</date>
+    <category lang="it">Viaggi &amp; Avventure</category>
     <icon src="https://www.raiplay.it/dl/img/2023/04/28/1682685762486_2048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011193500 +0200" stop="20261011200000 +0200" channel="RaiStoria.it">
     <title lang="it">Storie contemporanee. La ricerca storica in Italia</title>
@@ -26776,8 +27093,7 @@
 <programme start="20261012043000 +0200" stop="20261012053000 +0200" channel="RaiStoria.it">
     <title lang="it">Falqui Show</title>
     <sub-title lang="it">Puntata 3</sub-title>
-    <desc lang="it">Il meglio del varietà Rai firmato Antonello Falqui.</desc>
-    <date>2019</date>
+    <desc lang="it">Il meglio del varietà Rai firmato Antonello Falqui. Il meglio del varietà Rai firmato Antonello Falqui.</desc>
     <icon src="https://www.raiplay.it/dl/img/2025/08/26/1756216396270_FalquiShow.png"></icon>
   </programme>
 <programme start="20261012053000 +0200" stop="20261012054000 +0200" channel="RaiStoria.it">
@@ -28772,28 +29088,31 @@
   </programme>
 <programme start="20261011100000 +0200" stop="20261011122000 +0200" channel="RaiSport.it">
     <title lang="it">Vela</title>
-    <desc lang="it">La Barcolana.</desc>
-    <date>2019</date>
+    <desc lang="it">La Barcolana. La Barcolana.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791541504226_Barcolana%202025.jpg"></icon>
   </programme>
 <programme start="20261011122000 +0200" stop="20261011160000 +0200" channel="RaiSport.it">
     <title lang="it">Baseball</title>
-    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
-    <date>2019</date>
+    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania. WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
+    <date>2026</date>
+    <category lang="it">Altri Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542089650_Baseball%20Alberto%20Mineo.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261011160000 +0200" stop="20261011172000 +0200" channel="RaiSport.it">
     <title lang="it">Judo</title>
     <sub-title lang="it">Finali - 8a giornata</sub-title>
-    <desc lang="it">Mondiali - 8a giornata (finali).</desc>
-    <date>2019</date>
+    <desc lang="it">Mondiali - 8a giornata (finali). Mondiali - 8a giornata (finali).</desc>
+    <date>2024</date>
+    <category lang="it">Arti Marziali</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791539224976_Judo%20Baku%206a%20giornata.jpg"></icon>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
 <programme start="20261011172000 +0200" stop="20261011183000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica</title>
-    <desc lang="it">Derby Italiano del Trotto.</desc>
-    <date>2019</date>
+    <desc lang="it">Derby Italiano del Trotto. Derby Italiano del Trotto.</desc>
+    <date>2024</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791543290950_Derby%20Trotto%20Ippica.jpg"></icon>
   </programme>
 <programme start="20261011183000 +0200" stop="20261011203000 +0200" channel="RaiSport.it">
@@ -28814,8 +29133,9 @@
 <programme start="20261011224500 +0200" stop="20261012023000 +0200" channel="RaiSport.it">
     <title lang="it">Judo</title>
     <sub-title lang="it">Finali - 8a giornata</sub-title>
-    <desc lang="it">Mondiali - 8a giornata (finali).</desc>
-    <date>2019</date>
+    <desc lang="it">Mondiali - 8a giornata (finali). Mondiali - 8a giornata (finali).</desc>
+    <date>2024</date>
+    <category lang="it">Arti Marziali</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542552450_Judo%20Baku.jpg"></icon>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
@@ -28832,8 +29152,9 @@
 <programme start="20261012060000 +0200" stop="20261012070000 +0200" channel="RaiSport.it">
     <title lang="it">Judo</title>
     <sub-title lang="it">Finali - 8a giornata</sub-title>
-    <desc lang="it">Mondiali - 8a giornata (finali).</desc>
-    <date>2019</date>
+    <desc lang="it">Mondiali - 8a giornata (finali). Mondiali - 8a giornata (finali).</desc>
+    <date>2024</date>
+    <category lang="it">Arti Marziali</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542552450_Judo%20Baku.jpg"></icon>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
@@ -28848,9 +29169,15 @@
 <programme start="20261012073000 +0200" stop="20261012091500 +0200" channel="RaiSport.it">
     <title lang="it">La Domenica Sportiva</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
-    <date>2019</date>
+    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali. Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
+    <credits>
+      <presenter>Simona Rolandi</presenter>
+      <presenter>Alberto Rimedio</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2026/08/21/1787316377807_domenica%20sportiva%202026%20-%202048x1152.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261012091500 +0200" stop="20261012094500 +0200" channel="RaiSport.it">
     <title lang="it">La Domenica Sportiva</title>
@@ -28866,9 +29193,11 @@
   </programme>
 <programme start="20261012100000 +0200" stop="20261012141500 +0200" channel="RaiSport.it">
     <title lang="it">Baseball</title>
-    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
-    <date>2019</date>
+    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania. WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
+    <date>2026</date>
+    <category lang="it">Altri Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542089650_Baseball%20Alberto%20Mineo.jpg"></icon>
+    <country lang="it">Italia</country>
   </programme>
 <programme start="20261012141500 +0200" stop="20261012161500 +0200" channel="RaiSport.it">
     <title lang="it">Basket: Serie A2 Old Wild West</title>
@@ -28906,9 +29235,9 @@
   </programme>
 <programme start="20261012203000 +0200" stop="20261012223000 +0200" channel="RaiSport.it">
     <title lang="it">World Skate Games</title>
-    <desc lang="it">World Skate Games. Hockey Pista Asuncion: Spagna-Italia.</desc>
+    <desc lang="it">Hockey su pista - Qualificazioni: Spagna-Italia.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/09/04/1725464486187_World%20Skate%20Games.jpg"></icon>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791721238164_Andrea%20Malagoli%201.jpg"></icon>
   </programme>
 <programme start="20261012223000 +0200" stop="20261012230000 +0200" channel="RaiSport.it">
     <title lang="it">Arrampicata Sportiva</title>
@@ -29278,7 +29607,7 @@
   </programme>
 <programme start="20261012153500 +0200" stop="20261012160000 +0200" channel="RaiRadio2.it">
     <title lang="it">Casa Radio2</title>
-    <desc lang="it">Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
+    <desc lang="it">Ospite Giulia Leonie Ferrari, avvocata, fondatrice di LawPills. Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2026/09/11/1789112026931_Casa%20Radio2-2048x1152.jpg"></icon>
   </programme>
@@ -29404,7 +29733,7 @@
   </programme>
 <programme start="20261013153500 +0200" stop="20261013160000 +0200" channel="RaiRadio2.it">
     <title lang="it">Casa Radio2</title>
-    <desc lang="it">Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
+    <desc lang="it">Ospite Marcello Balestra, autore di "Lucio c'è. La vita e la musica di Lucio Dalla". Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2026/09/11/1789112026931_Casa%20Radio2-2048x1152.jpg"></icon>
   </programme>
@@ -29524,7 +29853,7 @@
   </programme>
 <programme start="20261014153500 +0200" stop="20261014160000 +0200" channel="RaiRadio2.it">
     <title lang="it">Casa Radio2</title>
-    <desc lang="it">Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
+    <desc lang="it">Ospite Matteo Lancini, psicologo e psicoterapeuta. Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2026/09/11/1789112026931_Casa%20Radio2-2048x1152.jpg"></icon>
   </programme>
